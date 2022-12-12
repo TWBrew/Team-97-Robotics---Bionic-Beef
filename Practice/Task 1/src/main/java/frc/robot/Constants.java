@@ -14,4 +14,3 @@ package frc.robot;
  */
 public final class Constants {}
 
-// Hello World
